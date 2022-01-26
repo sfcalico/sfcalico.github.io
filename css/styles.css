@@ -489,6 +489,10 @@ progress {
   display: none !important;
 }
 
+.projects {
+  font-size: smaller;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
